@@ -1,7 +1,9 @@
 
 <b>How to play:</b>
-1. Place the files in the same directory
-2. Run <b>game.py</b>
+
+1. Install pygame <b>(pip install pygame)</b>
+2. Place the files in the same directory
+3. Run <b>game.py</b>
 
 
 <b>Tutorial:</b>
