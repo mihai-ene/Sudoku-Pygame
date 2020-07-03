@@ -5,6 +5,7 @@
 2. Place the files in the same directory
 3. Run <b>game.py</b>
 
+<b> --------------------------------------------- </b>
 
 <b>How to play:</b>
 
