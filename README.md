@@ -1,12 +1,12 @@
 
-<b>How to play:</b>
+<b>How to use:</b>
 
 1. Install Pygame library <b>(pip install pygame)</b>
 2. Place the files in the same directory
 3. Run <b>game.py</b>
 
 
-<b>Tutorial:</b>
+<b>How to play:</b>
 
 <b>*</b> Use the numbers on the keyboard to place a temporary value in a box. <b><i>It will not be sent and can be modified at any time</i></b>
 
