@@ -10,7 +10,7 @@
 
 <b>*</b> Use the numbers on the keyboard to place a temporary value in a box. <b><i>It will not be sent and can be modified at any time</i></b>
 
-<b>*</b> To send a valurea from a box press <b>ENTER</b> or <b>Right Click</b>.
+<b>*</b> To send a value from a box press <b>ENTER</b> or <b>Right Click</b>.
 
 <b>*</b> To delete a temporary value from a box, press <b>BACKSPACE</b> or <b>Scroll Wheel</b>
 
