@@ -192,7 +192,7 @@ def format_time(secs):
 def tutorial(game_mode):
     tutorial_screen = pygame.display.set_mode((540,562))
     pygame.display.set_caption("Tutorial")
-    image = pygame.image.load(r'C:\Users\Mihai\PycharmProjects\game\tutorial.png')
+    image = pygame.image.load(r'tutorial.png')
 
     letsplay = Button(200,460,150,40,(13,83,83),"Let's play!")
     tutorial = True
@@ -220,7 +220,7 @@ def menu():
     screen = pygame.display.set_mode((540, 620))
     pygame.display.set_caption("Menu")
     white = (255, 255, 255)
-    image = pygame.image.load(r'C:\Users\Mihai\PycharmProjects\game\GUI.png')
+    image = pygame.image.load(r'GUI.png')
 
     hard = Button(195, 230, 150, 50, (13, 83, 83), 'Hard')
     medium = Button(195, 310, 150, 50, (13, 83, 83), 'Medium')
@@ -280,7 +280,7 @@ def gameover(play_time):
     alert = pygame.display.set_mode((540,620))
     pygame.display.set_caption("Mihai's sudoku")
     white=(255,255,255)
-    pop = pygame.image.load(r'C:\Users\Mihai\PycharmProjects\game\gameover.png')
+    pop = pygame.image.load(r'gameover.png')
     gotomenu = Button(180, 330, 180, 50, (13, 83, 83), 'Menu')
     exit = Button(180, 420, 180, 50, (13, 83, 83), 'Exit')
     fnt = pygame.font.SysFont("comicsans", 30)
@@ -318,7 +318,7 @@ def youwon(play_time):
     alert = pygame.display.set_mode((540, 620))
     pygame.display.set_caption("Mihai's sudoku")
     white = (255, 255, 255)
-    pop = pygame.image.load(r'C:\Users\Mihai\PycharmProjects\game\won.png')
+    pop = pygame.image.load(r'won.png')
     gotomenu = Button(180, 330, 180, 50, (13, 83, 83), 'Menu')
     exit = Button(180, 420, 180, 50, (13, 83, 83), 'Exit')
     fnt = pygame.font.SysFont("comicsans", 30)
